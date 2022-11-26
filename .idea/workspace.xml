@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Babbling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CutPaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/LineUpString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOf7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/PushString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SliceAndStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SumSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/WhatNext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Bacteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Bacteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
