@@ -8,7 +8,7 @@ import java.util.Objects;
 //        System.out.println(SimilarityOfArray.solution(s1[1], s2[1]));
 
 public class SimilarityOfArray {
-    public static int solution(String[] s1, String[] s2) {
+    public int solution(String[] s1, String[] s2) {
         int answer = 0;
         for(String element1 : s1) {
             for(String element2 : s2) {

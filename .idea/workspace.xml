@@ -5,10 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="solve 5 problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CalculateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindMaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SimilarityOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddBinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChangeIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CharOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ClosestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Decoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/DeleteDupChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Game369.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/HateEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/MakeBWithA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/UpperAndLowerCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddRadix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddRadix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Babbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Babbling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Bacteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Bacteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CalculateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CalculateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChooseMultipleOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChooseMultipleOfN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CutPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CutPaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindMaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindMaxNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/LineUpString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/LineUpString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOf7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOf7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/OXQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/OXQuiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/PushString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/PushString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SimilarityOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SimilarityOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SliceAndStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SliceAndStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SumSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SumSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ValidatePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ValidatePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/WhatNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/WhatNext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,19 +67,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Program Files/Programming/java-bridge",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Programming/java-bridge&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />

@@ -13,7 +13,7 @@ import java.util.List;
 //                System.out.println(LineUpString.solution(my_string2));
 
 public class LineUpString {
-    public static String solution(String my_string) {
+    public String solution(String my_string) {
         StringBuffer sb = new StringBuffer();
         my_string = my_string.toLowerCase();
         List<String> my_stringSort = new ArrayList<>(Arrays.asList(my_string.split("")));

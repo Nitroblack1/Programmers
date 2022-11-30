@@ -17,7 +17,7 @@ package programmers.Lv0_problems;
 
 public class OXQuiz {
 
-    public static String[] solution(String[] quiz) {
+    public String[] solution(String[] quiz) {
         String[] answer = new String[quiz.length];
         for (int i = 0; i < quiz.length; i++) {
             String[] equationTemp;

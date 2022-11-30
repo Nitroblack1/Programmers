@@ -11,7 +11,7 @@ package programmers.Lv0_problems;
 
 public class CalculateString {
 
-    public static int solution(String my_string) {
+    public int solution(String my_string) {
         int answer = 0;
         String[] plus = my_string.split(" \\+ ");
         for(String plusElement : plus) {

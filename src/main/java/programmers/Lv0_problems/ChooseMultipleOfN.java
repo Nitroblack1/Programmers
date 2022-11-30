@@ -12,7 +12,7 @@ import java.util.List;
 //        }
 
 public class ChooseMultipleOfN {
-    public static int[] solution(int n, int[] numList) {
+    public int[] solution(int n, int[] numList) {
         List<Integer> answerList = new ArrayList<>();
         for (int i = 0; i < numList.length; i++) {
             if (numList[i] % n == 0) {

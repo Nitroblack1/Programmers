@@ -7,7 +7,7 @@ package programmers.Lv0_problems;
 
 public class WhatNext {
 
-    public static int solution(int[] common) {
+    public int solution(int[] common) {
         if (common[2] + common[0] == common[1] * 2) {
             return common[common.length - 1] + (common[1] - common[0]);
         }

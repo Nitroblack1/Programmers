@@ -8,7 +8,7 @@ import java.util.Arrays;
 //        System.out.println(AddRadix.solution(case2));
 
 public class AddRadix {
-    public static int solution(int n) {
+    public int solution(int n) {
         return Arrays.stream(Integer.toString(n).split(""))
                 .mapToInt(Integer::parseInt).sum();
     }

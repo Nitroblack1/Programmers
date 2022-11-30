@@ -11,7 +11,7 @@ import programmers.Main;
 //                System.out.println(Bacteria.solution(n2, t2));
 
 public class Bacteria {
-    public static int solution(int n, int t) {
+    public int solution(int n, int t) {
         return (int)(n*Math.pow(2, t));
     }
 }

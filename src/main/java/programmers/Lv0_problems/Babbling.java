@@ -11,7 +11,7 @@ import java.util.List;
 //        System.out.println(Babbling.solution(babbling2));
 
 public class Babbling {
-    public static int solution(String[] babbling) {
+    public int solution(String[] babbling) {
         int answer = 0;
         List<String> standards = new ArrayList<>(Arrays.asList("aya", "ye", "woo", "ma"));
         for(String element : babbling) {

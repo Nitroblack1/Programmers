@@ -7,7 +7,7 @@ package programmers.Lv0_problems;
 //                System.out.println(ValidatePower.solution(n2));
 
 public class ValidatePower {
-    public static int solution(int n) {
+    public int solution(int n) {
         if (Math.sqrt(n) != Math.ceil(Math.sqrt(n))) {
             return 2;
         }

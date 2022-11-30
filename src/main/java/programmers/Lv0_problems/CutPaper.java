@@ -1,7 +1,7 @@
 package programmers.Lv0_problems;
 
 public class CutPaper {
-    public static int solution(int M, int N) {
+    public int solution(int M, int N) {
         if (M == 1 && N == 1) {
             return 0;
         }

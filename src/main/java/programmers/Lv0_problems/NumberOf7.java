@@ -8,7 +8,7 @@ import java.util.Arrays;
 //        System.out.println(NumberOf7.solution(case2));
 
 public class NumberOf7 {
-    public static int solution(int[] array) {
+    public int solution(int[] array) {
         int sum = 0;
         for(int element : array) {
             sum += Arrays.stream(Integer.toString(element).split(""))

@@ -10,7 +10,7 @@ package programmers.Lv0_problems;
 //                Arrays.stream(SliceAndStore.solution(my_str1, n1)).forEach(System.out::println);
 
 public class SliceAndStore {
-    public static String[] solution(String my_str, int n) {
+    public String[] solution(String my_str, int n) {
         int numberOfElements = (int)Math.ceil((double)my_str.length() / n);
         String[] answer = new String[numberOfElements];
         for(int i = 0; i < numberOfElements; i++) {

@@ -10,7 +10,7 @@ package programmers.Lv0_problems;
 //        System.out.println(PushString.solution(C, E));
 
 public class PushString {
-    public static int solution(String A, String B) {
+    public int solution(String A, String B) {
         StringBuffer sb = new StringBuffer(A);
         for(int i = 0; i < A.length(); i++) {
             if (sb.toString().equals(B)) {

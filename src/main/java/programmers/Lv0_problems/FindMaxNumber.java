@@ -7,7 +7,7 @@ import java.util.Arrays;
 //        Arrays.stream(FindMaxNumber.solution(array[1])).forEach(System.out::println);
 
 public class FindMaxNumber {
-    public static int[] solution(int[] array) {
+    public int[] solution(int[] array) {
         int[] answer = new int[2];
         answer[0] = Arrays.stream(array).sorted().toArray()[array.length-1];
         for(int i = 0; i < array.length; i++) {

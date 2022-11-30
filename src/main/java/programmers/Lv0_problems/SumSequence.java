@@ -6,7 +6,7 @@ package programmers.Lv0_problems;
 
 public class SumSequence {
 
-    public static int[] solution(int num, int total) {
+    public int[] solution(int num, int total) {
         int[] answer = new int[num];
         if (num % 2 == 1) {
             int standardIndex = num / 2;
