@@ -5,36 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="solve 5 problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddBinaryNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChangeIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CharOnce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ClosestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Decoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/DeleteDupChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Game369.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/HateEnglish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/MakeBWithA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOfK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/UpperAndLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChickenCoupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/LoginSuccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Rank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/UniqueOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ValidateFiniteDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddRadix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddRadix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Babbling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Babbling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Bacteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Bacteria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CalculateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CalculateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChooseMultipleOfN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ChooseMultipleOfN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CutPaper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CutPaper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindMaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindMaxNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/LineUpString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/LineUpString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOf7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOf7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/OXQuiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/OXQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/PushString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/PushString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SimilarityOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SimilarityOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SliceAndStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SliceAndStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SumSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SumSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ValidatePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ValidatePower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/WhatNext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/WhatNext.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
