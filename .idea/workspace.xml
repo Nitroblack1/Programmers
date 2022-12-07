@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="solve 5 problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddPolynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AdditionOfHiddenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CoordinatesOfCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/MakeMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/SafeZone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/AddHiddenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/CtrlZ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ExtentOfRecTangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/PrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/SplitStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/SplitStringsCustomizeVersion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/SplitStringsCustomizedVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/TheHallOfFame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/ChooseTangerine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/MarkDot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv3_problems/solving/MultiplicationTable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
