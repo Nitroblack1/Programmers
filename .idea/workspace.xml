@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="solve 5 problems">
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/ChooseTangerine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/ChooseTangerine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/FruitSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/KnightsWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/solving/SplitNumberCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
