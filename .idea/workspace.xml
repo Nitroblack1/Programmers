@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="solve 5 problems">
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/DivideBeadsCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/FindCompositeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/MakeTwoDimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/NumberOfDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/ThrowBall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/solving/SplitNumberCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/solving/SplitNumberCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/solving/SplitNumberCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv2_problems/SplitNumberCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +137,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/MakeHamburger.java</url>
           <line>15</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Lv0_problems/Factorial.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
