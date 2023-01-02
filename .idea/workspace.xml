@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a66a8cf-bafa-4e76-9e1f-6cfbd1d0f4be" name="Changes" comment="solve 5 problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/CraneDollPickGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/SmallSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/solving/FailureRate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/solving/GetReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/solving/FailureRate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Lv1_problems/solving/FailureRate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
